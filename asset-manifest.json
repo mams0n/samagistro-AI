@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samagistro-ai/static/css/main.4dcd6b70.chunk.css",
+    "main.js": "/samagistro-ai/static/js/main.7ea32214.chunk.js",
+    "main.js.map": "/samagistro-ai/static/js/main.7ea32214.chunk.js.map",
+    "runtime-main.js": "/samagistro-ai/static/js/runtime-main.c481135a.js",
+    "runtime-main.js.map": "/samagistro-ai/static/js/runtime-main.c481135a.js.map",
+    "static/js/2.1442e098.chunk.js": "/samagistro-ai/static/js/2.1442e098.chunk.js",
+    "static/js/2.1442e098.chunk.js.map": "/samagistro-ai/static/js/2.1442e098.chunk.js.map",
+    "index.html": "/samagistro-ai/index.html",
+    "precache-manifest.1172d11e7a9ee953303a076523c44f80.js": "/samagistro-ai/precache-manifest.1172d11e7a9ee953303a076523c44f80.js",
+    "service-worker.js": "/samagistro-ai/service-worker.js",
+    "static/css/main.4dcd6b70.chunk.css.map": "/samagistro-ai/static/css/main.4dcd6b70.chunk.css.map",
+    "static/js/2.1442e098.chunk.js.LICENSE.txt": "/samagistro-ai/static/js/2.1442e098.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/samagistro-ai/static/media/eurostile-lt-std-geo-mt.3f5c69be.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c481135a.js",
+    "static/js/2.1442e098.chunk.js",
+    "static/css/main.4dcd6b70.chunk.css",
+    "static/js/main.7ea32214.chunk.js"
+  ]
+}
